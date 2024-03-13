@@ -1,6 +1,7 @@
 @import url("./reset.css");
 @import url("./book.css");
 @import url("./bookList.css");
+@import url("./searchInput.css");
 
 body {
     width: 100%;
