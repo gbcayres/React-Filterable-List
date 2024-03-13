@@ -1,0 +1,10 @@
+.book {
+    background-color: #fff;
+    padding: 1rem;
+    font-size: 1.1em;
+     border: 1px solid #ccc;
+}
+
+.book-label {
+    font-weight: bold;
+}
